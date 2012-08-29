@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security
+END
+RoleValueCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/RoleValueCollection.class
+END
+XMLPermissionControl.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/XMLPermissionControl.class
+END
+PermissionSection.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/PermissionSection.class
+END
+RoleCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/RoleCollection.class
+END
+RoleValue.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/RoleValue.class
+END
+Role.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/Role.class
+END
+SecurityConstants.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/SecurityConstants.class
+END
+PermissionItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/PermissionItem.class
+END
+XMLPermissionControl$SelectData.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/XMLPermissionControl$SelectData.class
+END
+PermissionControl.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/security/PermissionControl.class
+END

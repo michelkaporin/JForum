@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN
+END
+mailNewTopic.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN/mailNewTopic.txt
+END
+activateAccount.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN/activateAccount.txt
+END
+mailNewReplyWithContents.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN/mailNewReplyWithContents.txt
+END
+summaryMessage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN/summaryMessage.txt
+END
+lostPassword.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN/lostPassword.txt
+END
+mailNewReply.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN/mailNewReply.txt
+END
+newPrivateMessage.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/823/1.team/templates/mail/zh_CN/newPrivateMessage.txt
+END

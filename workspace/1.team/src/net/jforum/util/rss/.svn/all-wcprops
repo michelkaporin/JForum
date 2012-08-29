@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss
+END
+TopicPostsRSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/TopicPostsRSS.java
+END
+GenericRSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/GenericRSS.java
+END
+RSSItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/RSSItem.java
+END
+TopicRSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/TopicRSS.java
+END
+RSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/RSS.java
+END
+RSSAware.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/RSSAware.java
+END
+RSSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/RSSUtils.java
+END
+RecentTopicsRSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/rss/RecentTopicsRSS.java
+END

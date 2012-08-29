@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver2000
+END
+SqlServer2000TopicDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver2000/SqlServer2000TopicDAO.java
+END
+SqlServer2000UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver2000/SqlServer2000UserDAO.java
+END
+SqlServer2000DataAccessDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver2000/SqlServer2000DataAccessDriver.java
+END
+SqlServer2000ModerationLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver2000/SqlServer2000ModerationLogDAO.java
+END
+SqlServer2000PostDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver2000/SqlServer2000PostDAO.java
+END

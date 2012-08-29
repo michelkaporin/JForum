@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle
+END
+OracleTopicDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OracleTopicDAO.class
+END
+OracleUserDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OracleUserDAO.class
+END
+OraclePrivateMessageDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OraclePrivateMessageDAO.class
+END
+OracleModerationDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OracleModerationDAO.class
+END
+OracleDataAccessDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OracleDataAccessDriver.class
+END
+OracleModerationLogDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OracleModerationLogDAO.class
+END
+OraclePostDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OraclePostDAO.class
+END
+OracleLuceneDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OracleLuceneDAO.class
+END
+OracleUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/oracle/OracleUtils.class
+END

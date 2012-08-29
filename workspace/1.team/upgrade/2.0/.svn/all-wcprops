@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/2.0
+END
+mysql_rc5_to_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/2.0/mysql_rc5_to_2.sql
+END
+pgsql_rc5_to_2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/2.0/pgsql_rc5_to_2.sql
+END

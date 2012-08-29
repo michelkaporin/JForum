@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common
+END
+BannerCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/BannerCommon.class
+END
+PostCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/PostCommon.class
+END
+PollCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/PollCommon.class
+END
+AttachmentCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/AttachmentCommon.class
+END
+ForumCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/ForumCommon.class
+END
+ViewCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/ViewCommon.class
+END
+UploadUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/UploadUtils.class
+END
+UserCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/UserCommon.class
+END
+TopicsCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/forum/common/TopicsCommon.class
+END

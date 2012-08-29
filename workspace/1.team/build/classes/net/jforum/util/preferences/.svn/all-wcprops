@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences
+END
+SystemGlobalsListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/SystemGlobalsListener.class
+END
+ConfigKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/ConfigKeys.class
+END
+VariableStore.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/VariableStore.class
+END
+QueriesFileListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/QueriesFileListener.class
+END
+TemplateKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/TemplateKeys.class
+END
+SystemGlobals.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/SystemGlobals.class
+END
+SystemGlobals$1SortedProperties.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/SystemGlobals$1SortedProperties.class
+END
+VariableExpander.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/preferences/VariableExpander.class
+END

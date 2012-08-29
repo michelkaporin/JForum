@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences
+END
+VariableExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences/VariableExpander.java
+END
+SystemGlobalsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences/SystemGlobalsListener.java
+END
+ConfigKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences/ConfigKeys.java
+END
+VariableStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences/VariableStore.java
+END
+QueriesFileListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences/QueriesFileListener.java
+END
+TemplateKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences/TemplateKeys.java
+END
+SystemGlobals.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/preferences/SystemGlobals.java
+END

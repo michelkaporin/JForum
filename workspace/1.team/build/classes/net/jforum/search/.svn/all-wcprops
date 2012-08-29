@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search
+END
+SearchOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchOperation.class
+END
+NewMessagesSearchOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/NewMessagesSearchOperation.class
+END
+SearchFacade.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchFacade.class
+END
+LuceneIndexer.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneIndexer.class
+END
+LuceneSettings.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneSettings.class
+END
+SearchFields.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchFields.class
+END
+SearchManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchManager.class
+END
+SearchFields$Indexed.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchFields$Indexed.class
+END
+LuceneSearch.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneSearch.class
+END
+SearchResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchResult.class
+END
+SearchFields$Keyword.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchFields$Keyword.class
+END
+LuceneReindexer$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneReindexer$1.class
+END
+LuceneManager.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneManager.class
+END
+LuceneReindexArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneReindexArgs.class
+END
+SearchOperation$ForumFilterResult.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchOperation$ForumFilterResult.class
+END
+NewDocumentAdded.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/NewDocumentAdded.class
+END
+SearchPost.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchPost.class
+END
+LuceneContentCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneContentCollector.class
+END
+LuceneResultCollector.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneResultCollector.class
+END
+LuceneReindexer.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/LuceneReindexer.class
+END
+ContentSearchOperation.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/ContentSearchOperation.class
+END
+SearchArgs.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/search/SearchArgs.class
+END

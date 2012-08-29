@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin
+END
+ForumAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/ForumAction.java
+END
+AdminAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/AdminAction.java
+END
+RankingAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/RankingAction.java
+END
+PermissionProcessHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/PermissionProcessHelper.java
+END
+AdminCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/AdminCommand.java
+END
+LuceneStatsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/LuceneStatsAction.java
+END
+GroupAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/GroupAction.java
+END
+BanlistAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/BanlistAction.java
+END
+ModerationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/ModerationAction.java
+END
+CacheAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/CacheAction.java
+END
+SmiliesAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/SmiliesAction.java
+END
+ConfigAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/ConfigAction.java
+END
+BannerAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/BannerAction.java
+END
+AttachmentsAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/AttachmentsAction.java
+END
+CategoryAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/CategoryAction.java
+END
+UserAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/view/admin/UserAction.java
+END

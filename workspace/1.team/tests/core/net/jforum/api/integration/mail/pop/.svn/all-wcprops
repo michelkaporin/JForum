@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/api/integration/mail/pop
+END
+POPConnectorMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/api/integration/mail/pop/POPConnectorMock.java
+END
+POPListenerMock.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/api/integration/mail/pop/POPListenerMock.java
+END
+POPListenerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/api/integration/mail/pop/POPListenerTestCase.java
+END

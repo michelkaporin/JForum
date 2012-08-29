@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions
+END
+ForumOrderChangedException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/ForumOrderChangedException.class
+END
+XMLException.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/XMLException.class
+END
+RepositoryStartupException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/RepositoryStartupException.class
+END
+CacheException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/CacheException.class
+END
+DatabaseException.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/DatabaseException.class
+END
+ConfigLoadException.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/ConfigLoadException.class
+END
+SearchException.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/SearchException.class
+END
+SmiliesLoadException.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/SmiliesLoadException.class
+END
+InvalidURLPatternException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/InvalidURLPatternException.class
+END
+RequestEmptyException.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/RequestEmptyException.class
+END
+SecurityLoadException.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/SecurityLoadException.class
+END
+APIException.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/APIException.class
+END
+SearchInstantiationException.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/SearchInstantiationException.class
+END
+ForumStartupException.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/ForumStartupException.class
+END
+ExceptionWriter.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/ExceptionWriter.class
+END
+CacheEngineStartupException.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/CacheEngineStartupException.class
+END
+InvalidBookmarkTypeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/InvalidBookmarkTypeException.class
+END
+MailException.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/MailException.class
+END
+BadExtensionException.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/BadExtensionException.class
+END
+MultipartHandlingException.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/MultipartHandlingException.class
+END
+AttachmentSizeTooBigException.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/AttachmentSizeTooBigException.class
+END
+ForumException.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/ForumException.class
+END
+AttachmentException.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/AttachmentException.class
+END
+LoadForumException.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/LoadForumException.class
+END
+TemplateNotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/TemplateNotFoundException.class
+END
+RankingLoadException.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/RankingLoadException.class
+END
+CategoryNotFoundException.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/exceptions/CategoryNotFoundException.class
+END

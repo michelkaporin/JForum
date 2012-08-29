@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload
+END
+FileUploadBase$UnknownSizeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileUploadBase$UnknownSizeException.class
+END
+MultipartStream$IllegalBoundaryException.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/MultipartStream$IllegalBoundaryException.class
+END
+FileUploadBase.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileUploadBase.class
+END
+MultipartStream$MalformedStreamException.class
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/MultipartStream$MalformedStreamException.class
+END
+FileUploadBase$SizeLimitExceededException.class
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileUploadBase$SizeLimitExceededException.class
+END
+FileUpload.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileUpload.class
+END
+FileItemFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileItemFactory.class
+END
+DefaultFileItemFactory.class
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/DefaultFileItemFactory.class
+END
+ParameterParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/ParameterParser.class
+END
+MultipartStream.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/MultipartStream.class
+END
+RequestContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/RequestContext.class
+END
+FileItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileItem.class
+END
+DiskFileUpload.class
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/DiskFileUpload.class
+END
+FileUploadException.class
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileUploadException.class
+END
+DefaultFileItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/DefaultFileItem.class
+END
+FileUploadBase$InvalidContentTypeException.class
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/legacy/commons/fileupload/FileUploadBase$InvalidContentTypeException.class
+END

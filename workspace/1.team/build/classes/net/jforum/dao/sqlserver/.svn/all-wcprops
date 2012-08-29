@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/sqlserver
+END
+SqlServerKarmaDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/sqlserver/SqlServerKarmaDAO.class
+END
+SqlServerTopicDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/sqlserver/SqlServerTopicDAO.class
+END
+SqlServerUserDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/sqlserver/SqlServerUserDAO.class
+END
+SqlServerPrivateMessageDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/sqlserver/SqlServerPrivateMessageDAO.class
+END
+SqlServerDataAccessDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/sqlserver/SqlServerDataAccessDriver.class
+END
+SqlServerPostDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/sqlserver/SqlServerPostDAO.class
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search
+END
+LuceneManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneManager.java
+END
+LuceneReindexArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneReindexArgs.java
+END
+NewDocumentAdded.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/NewDocumentAdded.java
+END
+SearchPost.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/SearchPost.java
+END
+LuceneContentCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneContentCollector.java
+END
+LuceneResultCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneResultCollector.java
+END
+LuceneReindexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneReindexer.java
+END
+ContentSearchOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/ContentSearchOperation.java
+END
+SearchArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/SearchArgs.java
+END
+SearchOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/SearchOperation.java
+END
+NewMessagesSearchOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/NewMessagesSearchOperation.java
+END
+SearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/SearchFacade.java
+END
+LuceneIndexer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneIndexer.java
+END
+SearchFields.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/SearchFields.java
+END
+LuceneSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneSettings.java
+END
+SearchManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/SearchManager.java
+END
+LuceneSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/LuceneSearch.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/search/SearchResult.java
+END

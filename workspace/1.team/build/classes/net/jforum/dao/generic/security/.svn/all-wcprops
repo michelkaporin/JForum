@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/security
+END
+SecurityCommon.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/security/SecurityCommon.class
+END
+GenericGroupSecurityDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/security/GenericGroupSecurityDAO.class
+END

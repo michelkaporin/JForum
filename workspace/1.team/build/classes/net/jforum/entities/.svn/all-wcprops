@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities
+END
+LastPostInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/LastPostInfo.class
+END
+ForumModerationInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/ForumModerationInfo.class
+END
+QuotaLimit.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/QuotaLimit.class
+END
+Attachment.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Attachment.class
+END
+Forum.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Forum.class
+END
+Ranking.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Ranking.class
+END
+MostUsersEverOnline.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/MostUsersEverOnline.class
+END
+Banlist.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Banlist.class
+END
+PollChanges.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/PollChanges.class
+END
+KarmaStatus.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/KarmaStatus.class
+END
+ModerationLog.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/ModerationLog.class
+END
+Banner.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Banner.class
+END
+Bookmark.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Bookmark.class
+END
+ForumStats.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/ForumStats.class
+END
+ModeratorInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/ModeratorInfo.class
+END
+TopicTypeComparator.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/TopicTypeComparator.class
+END
+Category.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Category.class
+END
+PrivateMessageType.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/PrivateMessageType.class
+END
+ModerationPendingInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/ModerationPendingInfo.class
+END
+Smilie.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Smilie.class
+END
+Post.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Post.class
+END
+AttachmentExtension.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/AttachmentExtension.class
+END
+MailIntegration.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/MailIntegration.class
+END
+Karma.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Karma.class
+END
+Group.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Group.class
+END
+PollOption.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/PollOption.class
+END
+AttachmentExtensionGroup.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/AttachmentExtensionGroup.class
+END
+AttachmentInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/AttachmentInfo.class
+END
+ModerationLogType.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/ModerationLogType.class
+END
+Config.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Config.class
+END
+Poll.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Poll.class
+END
+BookmarkType.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/BookmarkType.class
+END
+TopicModerationInfo.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/TopicModerationInfo.class
+END
+Topic.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/Topic.class
+END
+User.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/User.class
+END
+PrivateMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/PrivateMessage.class
+END
+UserSession.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/entities/UserSession.class
+END

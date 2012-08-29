@@ -1,0 +1,32 @@
+Lai nomainītu adresi, kas apiet HoneyPot tricku, pieslēdzās forumā
+ar administratora lietotāju un aiziet uz Admin Control Panel -> Configurations.
+Tur nomaina vērtību laukam "Javascript obfuscated URL for posting" un spied "Update".
+
+Lai pielietotu Odo.lv īpatnējus stilus, visu ./Odo.lv_templates
+mapes saturu pārkopē uz ./templates mapi (vai pirmkodā, vai arī
+JForum aplikācijas mapē, serverī) un izvēlās aizvietot esošus failus.
+
+JForum customizācija priekš Latviešu valodas:
+
+Klišķina un saites Admin Control Panel un Configurations, un nomaina sekojošas vērtības:
+Configurations:
+...	 
+Default board Language	lv_LV
+...	 
+Topic answer message file	mail/lv_LV/mailNewReply.txt
+Topic answer message subject	Odo.lv forumā ievietots ziņojums: {0}
+Private Message answer message file	mail/newPrivateMessage.txt
+Private Message answer subject	Odo.lv forumā Jums nosūtīts privāts ziņojums
+User Activation message file	mail/lv_LV/activateAccount.txt
+User Activation message subject	Odo.lv foruma identifikatora aktivizēšana
+Recover password message file	mail/lv_LV/lostPassword.txt
+Recover password message subject	Odo.lv foruma paroles atjaunošana
+...
+utf-8 kodējuma nodrošināšana mysql serverim
+
+/etc/mysql/my.cnf 
+
+failā veic izmaiņas, papildinot [mysqld] sadaļas ar attiecīgajām rindiņām:
+...
+character-set-server = utf8
+...

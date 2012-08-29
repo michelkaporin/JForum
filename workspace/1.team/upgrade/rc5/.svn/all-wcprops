@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/rc5
+END
+postgresql_rc4_to_rc5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/rc5/postgresql_rc4_to_rc5.sql
+END
+mysql_rc4_to_rc5.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/rc5/mysql_rc4_to_rc5.sql
+END

@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic
+END
+GenericConfigDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericConfigDAO.java
+END
+GenericBookmarkDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericBookmarkDAO.java
+END
+GenericBannerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericBannerDAO.java
+END
+GenericPollDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericPollDAO.java
+END
+GenericApiDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericApiDAO.java
+END
+GenericLuceneDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericLuceneDAO.java
+END
+GenericTreeGroupDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericTreeGroupDAO.java
+END
+GenericCategoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericCategoryDAO.java
+END
+GenericTopicDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericTopicDAO.java
+END
+GenericUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericUserDAO.java
+END
+GenericPrivateMessageDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericPrivateMessageDAO.java
+END
+GenericSmilieDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericSmilieDAO.java
+END
+GenericUserSessionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericUserSessionDAO.java
+END
+GenericDataAccessDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericDataAccessDriver.java
+END
+AutoKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/AutoKeys.java
+END
+GenericPostDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericPostDAO.java
+END
+GenericMailIntegrationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericMailIntegrationDAO.java
+END
+GenericForumDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericForumDAO.java
+END
+GenericAttachmentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericAttachmentDAO.java
+END
+GenericRankingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericRankingDAO.java
+END
+GenericKarmaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericKarmaDAO.java
+END
+GenericGroupDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericGroupDAO.java
+END
+GenericBanlistDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericBanlistDAO.java
+END
+GenericSummaryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericSummaryDAO.java
+END
+GenericModerationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericModerationDAO.java
+END
+GenericModerationLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/generic/GenericModerationLogDAO.java
+END

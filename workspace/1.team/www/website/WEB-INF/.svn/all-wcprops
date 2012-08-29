@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF
+END
+jspwiki.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/jspwiki.properties
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/web.xml
+END
+jspwiki.jaas
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/jspwiki.jaas
+END
+jspwiki.policy
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/jspwiki.policy
+END
+groupdatabase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/groupdatabase.xml
+END
+oscache.properties
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/oscache.properties
+END
+jspwiki.tld
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/jspwiki.tld
+END
+userdatabase.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/userdatabase.xml
+END
+java2html.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/java2html.jar
+END
+jspwiki.jks
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/jspwiki.jks
+END
+oscache.tld
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/822/1.team/www/website/WEB-INF/oscache.tld
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao
+END
+MailIntegrationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/MailIntegrationDAO.java
+END
+ForumDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/ForumDAO.java
+END
+AttachmentDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/AttachmentDAO.java
+END
+RankingDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/RankingDAO.java
+END
+MySQLVersionWorkarounder.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/MySQLVersionWorkarounder.java
+END
+KarmaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/KarmaDAO.java
+END
+GroupDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/GroupDAO.java
+END
+BanlistDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/BanlistDAO.java
+END
+SummaryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/SummaryDAO.java
+END
+ModerationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/ModerationDAO.java
+END
+ModerationLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/ModerationLogDAO.java
+END
+ConfigDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/ConfigDAO.java
+END
+BookmarkDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/BookmarkDAO.java
+END
+BannerDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/BannerDAO.java
+END
+PollDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/PollDAO.java
+END
+ApiDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/ApiDAO.java
+END
+LuceneDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/LuceneDAO.java
+END
+TreeGroupDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/TreeGroupDAO.java
+END
+CategoryDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/CategoryDAO.java
+END
+TopicDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/TopicDAO.java
+END
+UserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/UserDAO.java
+END
+PrivateMessageDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/PrivateMessageDAO.java
+END
+SmilieDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/SmilieDAO.java
+END
+UserSessionDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/UserSessionDAO.java
+END
+DataAccessDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/DataAccessDriver.java
+END
+GroupSecurityDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/GroupSecurityDAO.java
+END
+PostDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/PostDAO.java
+END

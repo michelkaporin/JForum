@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver
+END
+SqlServerDataAccessDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver/SqlServerDataAccessDriver.java
+END
+SqlServerPostDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver/SqlServerPostDAO.java
+END
+SqlServerKarmaDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver/SqlServerKarmaDAO.java
+END
+SqlServerTopicDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver/SqlServerTopicDAO.java
+END
+SqlServerUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver/SqlServerUserDAO.java
+END
+SqlServerPrivateMessageDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/sqlserver/SqlServerPrivateMessageDAO.java
+END

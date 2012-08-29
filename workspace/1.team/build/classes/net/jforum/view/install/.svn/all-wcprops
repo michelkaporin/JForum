@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/install
+END
+InstallAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/install/InstallAction.class
+END
+ParseDBStructFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/install/ParseDBStructFile.class
+END
+ParseDBDumpFile.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/install/ParseDBDumpFile.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/sqlserver2000
+END
+sqlserver2000_db_struct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/sqlserver2000/sqlserver2000_db_struct.sql
+END
+sqlserver2000.properties
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/sqlserver2000/sqlserver2000.properties
+END
+sqlserver2000_data_dump.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/sqlserver2000/sqlserver2000_data_dump.sql
+END
+sqlserver2000.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/sqlserver2000/sqlserver2000.sql
+END

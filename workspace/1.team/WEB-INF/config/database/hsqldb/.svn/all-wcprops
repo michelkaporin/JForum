@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/hsqldb
+END
+hsqldb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/hsqldb/hsqldb.sql
+END
+hsqldb_db_struct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/hsqldb/hsqldb_db_struct.sql
+END
+hsqldb_data_dump.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/hsqldb/hsqldb_data_dump.sql
+END

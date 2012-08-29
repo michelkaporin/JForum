@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/postgresql
+END
+postgresql_db_struct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/postgresql/postgresql_db_struct.sql
+END
+postgresql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/postgresql/postgresql.properties
+END
+postgresql_data_dump.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/postgresql/postgresql_data_dump.sql
+END
+postgresql_drop_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/postgresql/postgresql_drop_tables.sql
+END
+postgresql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/postgresql/postgresql.sql
+END

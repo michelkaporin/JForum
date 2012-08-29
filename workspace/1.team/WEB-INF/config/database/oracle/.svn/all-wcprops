@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/oracle
+END
+oracle_db_struct.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/oracle/oracle_db_struct.sql
+END
+oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/oracle/oracle.properties
+END
+oracle_data_dump.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/oracle/oracle_data_dump.sql
+END
+oracle_data_jforum_posts_text_post_text_blob.txt
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/oracle/oracle_data_jforum_posts_text_post_text_blob.txt
+END
+oracle_drop_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/oracle/oracle_drop_tables.sql
+END
+oracle.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/database/oracle/oracle.sql
+END

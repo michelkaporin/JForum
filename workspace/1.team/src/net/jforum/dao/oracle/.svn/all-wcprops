@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle
+END
+OracleLuceneDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OracleLuceneDAO.java
+END
+OracleUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OracleUtils.java
+END
+OracleTopicDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OracleTopicDAO.java
+END
+OracleUserDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OracleUserDAO.java
+END
+OraclePrivateMessageDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OraclePrivateMessageDAO.java
+END
+OracleModerationDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OracleModerationDAO.java
+END
+OracleDataAccessDriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OracleDataAccessDriver.java
+END
+OracleModerationLogDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OracleModerationLogDAO.java
+END
+OraclePostDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/dao/oracle/OraclePostDAO.java
+END

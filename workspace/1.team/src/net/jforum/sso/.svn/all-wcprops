@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/sso
+END
+LoginAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/sso/LoginAuthenticator.java
+END
+SSO.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/sso/SSO.java
+END
+SSOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/sso/SSOUtils.java
+END
+DefaultLoginAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/sso/DefaultLoginAuthenticator.java
+END
+LDAPAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/sso/LDAPAuthenticator.java
+END
+RemoteUserSSO.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/sso/RemoteUserSSO.java
+END

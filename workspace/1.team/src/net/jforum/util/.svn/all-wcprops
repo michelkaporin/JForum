@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util
+END
+FileChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/FileChangeListener.java
+END
+ForumOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/ForumOrderComparator.java
+END
+TreeGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/TreeGroup.java
+END
+I18n.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/I18n.java
+END
+CategoryOrderComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/CategoryOrderComparator.java
+END
+GroupNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/GroupNode.java
+END
+Captcha.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/Captcha.java
+END
+SafeHtml.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/SafeHtml.java
+END
+MD5.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/MD5.java
+END
+URLNormalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/URLNormalizer.java
+END
+DbUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/DbUtils.java
+END
+FormSelectedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/FormSelectedData.java
+END
+FileMonitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/util/FileMonitor.java
+END

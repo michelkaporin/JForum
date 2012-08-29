@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/context/web
+END
+WebSessionContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/context/web/WebSessionContext.java
+END
+WebRequestContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/context/web/WebRequestContext.java
+END
+WebResponseContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/context/web/WebResponseContext.java
+END

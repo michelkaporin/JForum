@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/sso
+END
+LoginAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/sso/LoginAuthenticator.class
+END
+SSO.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/sso/SSO.class
+END
+SSOUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/sso/SSOUtils.class
+END
+DefaultLoginAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/sso/DefaultLoginAuthenticator.class
+END
+LDAPAuthenticator.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/sso/LDAPAuthenticator.class
+END
+RemoteUserSSO.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/sso/RemoteUserSSO.class
+END

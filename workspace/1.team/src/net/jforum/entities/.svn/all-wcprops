@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities
+END
+ModerationLogType.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/ModerationLogType.java
+END
+Config.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Config.java
+END
+BookmarkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/BookmarkType.java
+END
+ModeratorInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/ModeratorInfo.java
+END
+TopicTypeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/TopicTypeComparator.java
+END
+PrivateMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/PrivateMessage.java
+END
+ModerationPendingInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/ModerationPendingInfo.java
+END
+Smilie.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Smilie.java
+END
+LastPostInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/LastPostInfo.java
+END
+MailIntegration.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/MailIntegration.java
+END
+Ranking.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Ranking.java
+END
+MostUsersEverOnline.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/MostUsersEverOnline.java
+END
+Group.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Group.java
+END
+PollChanges.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/PollChanges.java
+END
+KarmaStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/KarmaStatus.java
+END
+AttachmentExtensionGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/AttachmentExtensionGroup.java
+END
+ModerationLog.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/ModerationLog.java
+END
+AttachmentInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/AttachmentInfo.java
+END
+Banner.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Banner.java
+END
+Bookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Bookmark.java
+END
+Poll.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Poll.java
+END
+ForumStats.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/ForumStats.java
+END
+TopicModerationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/TopicModerationInfo.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Category.java
+END
+Topic.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Topic.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/User.java
+END
+PrivateMessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/PrivateMessageType.java
+END
+UserSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/UserSession.java
+END
+Post.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Post.java
+END
+AttachmentExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/AttachmentExtension.java
+END
+ForumModerationInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/ForumModerationInfo.java
+END
+QuotaLimit.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/QuotaLimit.java
+END
+Attachment.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Attachment.java
+END
+Forum.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Forum.java
+END
+Karma.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Karma.java
+END
+Banlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/Banlist.java
+END
+PollOption.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/entities/PollOption.java
+END

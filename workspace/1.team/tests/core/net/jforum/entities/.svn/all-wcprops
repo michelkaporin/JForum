@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/entities
+END
+BanlistTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/entities/BanlistTestCase.java
+END
+TopicTypeComparatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/entities/TopicTypeComparatorTest.java
+END
+PoolChangesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/entities/PoolChangesTest.java
+END

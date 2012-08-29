@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum
+END
+JForumExecutionContext.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/JForumExecutionContext.class
+END
+ConfigLoader.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/ConfigLoader.class
+END
+UrlPattern.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/UrlPattern.class
+END
+PooledConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/PooledConnection.class
+END
+JForumBaseServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/JForumBaseServlet.class
+END
+JForum.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/JForum.class
+END
+ForumSessionListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/ForumSessionListener.class
+END
+ControllerUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/ControllerUtils.class
+END
+DBConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/DBConnection.class
+END
+SessionFacade.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/SessionFacade.class
+END
+SimpleConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/SimpleConnection.class
+END
+DataSourceConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/DataSourceConnection.class
+END
+InstallServlet.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/InstallServlet.class
+END
+ForumStartup.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/ForumStartup.class
+END
+UrlPatternCollection.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/UrlPatternCollection.class
+END
+Command.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/Command.class
+END
+C3P0PooledConnection.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/C3P0PooledConnection.class
+END

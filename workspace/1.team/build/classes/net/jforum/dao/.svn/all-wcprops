@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao
+END
+ConfigDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/ConfigDAO.class
+END
+BookmarkDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/BookmarkDAO.class
+END
+BannerDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/BannerDAO.class
+END
+PollDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/PollDAO.class
+END
+ApiDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/ApiDAO.class
+END
+LuceneDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/LuceneDAO.class
+END
+TreeGroupDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/TreeGroupDAO.class
+END
+CategoryDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/CategoryDAO.class
+END
+TopicDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/TopicDAO.class
+END
+UserDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/UserDAO.class
+END
+PrivateMessageDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/PrivateMessageDAO.class
+END
+SmilieDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/SmilieDAO.class
+END
+UserSessionDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/UserSessionDAO.class
+END
+DataAccessDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/DataAccessDriver.class
+END
+GroupSecurityDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/GroupSecurityDAO.class
+END
+PostDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/PostDAO.class
+END
+MailIntegrationDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/MailIntegrationDAO.class
+END
+ForumDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/ForumDAO.class
+END
+AttachmentDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/AttachmentDAO.class
+END
+RankingDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/RankingDAO.class
+END
+MySQLVersionWorkarounder.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/MySQLVersionWorkarounder.class
+END
+KarmaDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/KarmaDAO.class
+END
+GroupDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/GroupDAO.class
+END
+BanlistDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/BanlistDAO.class
+END
+SummaryDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/SummaryDAO.class
+END
+ModerationDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/ModerationDAO.class
+END
+ModerationLogDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/ModerationLogDAO.class
+END

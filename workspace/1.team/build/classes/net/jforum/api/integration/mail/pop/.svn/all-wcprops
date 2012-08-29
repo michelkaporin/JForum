@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop
+END
+MessageId.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop/MessageId.class
+END
+POPPostAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop/POPPostAction.class
+END
+POPMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop/POPMessage.class
+END
+POPListener.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop/POPListener.class
+END
+POPConnector.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop/POPConnector.class
+END
+POPParser.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop/POPParser.class
+END
+POPJobStarter.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/api/integration/mail/pop/POPJobStarter.class
+END

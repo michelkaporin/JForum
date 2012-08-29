@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop
+END
+MessageId.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop/MessageId.java
+END
+POPPostAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop/POPPostAction.java
+END
+POPMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop/POPMessage.java
+END
+POPListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop/POPListener.java
+END
+POPConnector.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop/POPConnector.java
+END
+POPParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop/POPParser.java
+END
+POPJobStarter.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/api/integration/mail/pop/POPJobStarter.java
+END

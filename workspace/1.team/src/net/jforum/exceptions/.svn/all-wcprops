@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions
+END
+InvalidURLPatternException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/InvalidURLPatternException.java
+END
+RequestEmptyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/RequestEmptyException.java
+END
+SecurityLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/SecurityLoadException.java
+END
+APIException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/APIException.java
+END
+SearchInstantiationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/SearchInstantiationException.java
+END
+ForumStartupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/ForumStartupException.java
+END
+ExceptionWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/ExceptionWriter.java
+END
+CacheEngineStartupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/CacheEngineStartupException.java
+END
+InvalidBookmarkTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/InvalidBookmarkTypeException.java
+END
+MailException.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/MailException.java
+END
+BadExtensionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/BadExtensionException.java
+END
+MultipartHandlingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/MultipartHandlingException.java
+END
+AttachmentSizeTooBigException.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/AttachmentSizeTooBigException.java
+END
+ForumException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/ForumException.java
+END
+AttachmentException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/AttachmentException.java
+END
+LoadForumException.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/LoadForumException.java
+END
+TemplateNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/TemplateNotFoundException.java
+END
+RankingLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/RankingLoadException.java
+END
+CategoryNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/CategoryNotFoundException.java
+END
+ForumOrderChangedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/ForumOrderChangedException.java
+END
+XMLException.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/XMLException.java
+END
+RepositoryStartupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/RepositoryStartupException.java
+END
+CacheException.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/CacheException.java
+END
+DatabaseException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/DatabaseException.java
+END
+ConfigLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/ConfigLoadException.java
+END
+SearchException.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/SearchException.java
+END
+SmiliesLoadException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/exceptions/SmiliesLoadException.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/bootcamp/!svn/ver/823/1.team/templates/macros
+END
+search_pagination.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/823/1.team/templates/macros/search_pagination.ftl
+END
+pagination.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/bootcamp/!svn/ver/823/1.team/templates/macros/pagination.ftl
+END
+presentation.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/823/1.team/templates/macros/presentation.ftl
+END

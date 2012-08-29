@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/bootcamp/!svn/ver/822/1.team/tools/phpbb2jforum/resource
+END
+phpbb2JForum.bat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/bootcamp/!svn/ver/822/1.team/tools/phpbb2jforum/resource/phpbb2JForum.bat
+END
+phpbb2JForum.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/822/1.team/tools/phpbb2jforum/resource/phpbb2JForum.sh
+END
+mysql_queries.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/tools/phpbb2jforum/resource/mysql_queries.sql
+END
+SystemGlobals.properties
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/822/1.team/tools/phpbb2jforum/resource/SystemGlobals.properties
+END

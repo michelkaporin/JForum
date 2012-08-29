@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/hsqldb
+END
+HsqldbTopicDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/hsqldb/HsqldbTopicDAO.class
+END
+HsqldbUserDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/hsqldb/HsqldbUserDAO.class
+END
+HsqldbDataAccessDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/hsqldb/HsqldbDataAccessDriver.class
+END
+HsqldbPostDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/hsqldb/HsqldbPostDAO.class
+END

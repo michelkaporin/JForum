@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail
+END
+PrivateMessageSpammer.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/PrivateMessageSpammer.class
+END
+Spammer.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/Spammer.class
+END
+ForumNewTopicSpammer.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/ForumNewTopicSpammer.class
+END
+LostPasswordSpammer.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/LostPasswordSpammer.class
+END
+EmailSenderTask.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/EmailSenderTask.class
+END
+IdentifiableMimeMessage.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/IdentifiableMimeMessage.class
+END
+ActivationKeySpammer.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/ActivationKeySpammer.class
+END
+TopicReplySpammer.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/mail/TopicReplySpammer.class
+END

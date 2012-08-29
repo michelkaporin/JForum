@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository
+END
+RolesRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/RolesRepository.class
+END
+PostRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/PostRepository.class
+END
+SmiliesRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/SmiliesRepository.class
+END
+SecurityRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/SecurityRepository.class
+END
+ForumRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/ForumRepository.class
+END
+ModulesRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/ModulesRepository.class
+END
+RankingRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/RankingRepository.class
+END
+PostRepository$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/PostRepository$1.class
+END
+BanlistRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/BanlistRepository.class
+END
+BBCodeRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/BBCodeRepository.class
+END
+TopicRepository.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/TopicRepository.class
+END
+Tpl.class
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/repository/Tpl.class
+END

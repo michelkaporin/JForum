@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin
+END
+CategoryAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/CategoryAction.class
+END
+AdminAction$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/AdminAction$1.class
+END
+UserAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/UserAction.class
+END
+ForumAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/ForumAction.class
+END
+AdminAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/AdminAction.class
+END
+RankingAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/RankingAction.class
+END
+PermissionProcessHelper.class
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/PermissionProcessHelper.class
+END
+AdminCommand.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/AdminCommand.class
+END
+LuceneStatsAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/LuceneStatsAction.class
+END
+GroupAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/GroupAction.class
+END
+BanlistAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/BanlistAction.class
+END
+ModerationAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/ModerationAction.class
+END
+CacheAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/CacheAction.class
+END
+ConfigAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/ConfigAction.class
+END
+BannerAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/BannerAction.class
+END
+SmiliesAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/SmiliesAction.class
+END
+AttachmentsAction.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/view/admin/AttachmentsAction.class
+END

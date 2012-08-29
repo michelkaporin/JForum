@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config
+END
+jboss-cache-cluster.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/jboss-cache-cluster.xml
+END
+modulesMapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/modulesMapping.properties
+END
+clickstream-jforum.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/clickstream-jforum.xml
+END
+quartz-jforum.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/quartz-jforum.properties
+END
+SystemGlobals.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/SystemGlobals.properties
+END
+templatesMapping.properties
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/templatesMapping.properties
+END
+bb_config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/bb_config.xml
+END
+jboss-cache-local.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/jboss-cache-local.xml
+END
+permissions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/permissions.xml
+END
+urlPattern.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/822/1.team/WEB-INF/config/urlPattern.properties
+END

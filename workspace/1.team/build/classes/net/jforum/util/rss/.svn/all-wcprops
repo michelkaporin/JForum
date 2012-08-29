@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss
+END
+TopicPostsRSS.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/TopicPostsRSS.class
+END
+GenericRSS.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/GenericRSS.class
+END
+RSSItem.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/RSSItem.class
+END
+TopicRSS.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/TopicRSS.class
+END
+RSS.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/RSS.class
+END
+RSSAware.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/RSSAware.class
+END
+RSSUtils.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/RSSUtils.class
+END
+RecentTopicsRSS.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/util/rss/RecentTopicsRSS.class
+END

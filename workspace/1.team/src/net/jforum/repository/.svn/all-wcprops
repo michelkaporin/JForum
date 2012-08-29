@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository
+END
+BanlistRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/BanlistRepository.java
+END
+BBCodeRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/BBCodeRepository.java
+END
+TopicRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/TopicRepository.java
+END
+Tpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/Tpl.java
+END
+RolesRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/RolesRepository.java
+END
+PostRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/PostRepository.java
+END
+SmiliesRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/SmiliesRepository.java
+END
+SecurityRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/SecurityRepository.java
+END
+ForumRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/ForumRepository.java
+END
+ModulesRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/ModulesRepository.java
+END
+RankingRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/src/net/jforum/repository/RankingRepository.java
+END

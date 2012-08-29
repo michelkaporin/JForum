@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/2.1
+END
+hsqldb_2.0.2_to_2.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/2.1/hsqldb_2.0.2_to_2.1.sql
+END
+mysql_2.0.2_to_2.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/2.1/mysql_2.0.2_to_2.1.sql
+END
+pgsql_2.0.2_to_2.1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/bootcamp/!svn/ver/822/1.team/upgrade/2.1/pgsql_2.0.2_to_2.1.sql
+END

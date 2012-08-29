@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/http
+END
+FakeActionServletRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/http/FakeActionServletRequest.java
+END
+FakeHttpResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/http/FakeHttpResponse.java
+END
+FakeHttpSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/http/FakeHttpSession.java
+END
+FakeHttpRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/bootcamp/!svn/ver/822/1.team/tests/core/net/jforum/http/FakeHttpRequest.java
+END

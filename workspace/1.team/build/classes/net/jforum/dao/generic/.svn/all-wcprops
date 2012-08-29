@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic
+END
+GenericKarmaDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericKarmaDAO.class
+END
+GenericGroupDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericGroupDAO.class
+END
+GenericBanlistDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericBanlistDAO.class
+END
+GenericSummaryDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericSummaryDAO.class
+END
+GenericModerationDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericModerationDAO.class
+END
+GenericModerationLogDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericModerationLogDAO.class
+END
+GenericConfigDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericConfigDAO.class
+END
+GenericBookmarkDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericBookmarkDAO.class
+END
+GenericBannerDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericBannerDAO.class
+END
+GenericPollDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericPollDAO.class
+END
+GenericApiDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericApiDAO.class
+END
+GenericLuceneDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericLuceneDAO.class
+END
+GenericTreeGroupDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericTreeGroupDAO.class
+END
+GenericCategoryDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericCategoryDAO.class
+END
+GenericTopicDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericTopicDAO.class
+END
+GenericUserDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericUserDAO.class
+END
+GenericPrivateMessageDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericPrivateMessageDAO.class
+END
+GenericSmilieDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericSmilieDAO.class
+END
+GenericUserSessionDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericUserSessionDAO.class
+END
+GenericDataAccessDriver.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericDataAccessDriver.class
+END
+AutoKeys.class
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/AutoKeys.class
+END
+GenericPostDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericPostDAO.class
+END
+GenericMailIntegrationDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericMailIntegrationDAO.class
+END
+GenericForumDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericForumDAO.class
+END
+GenericAttachmentDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericAttachmentDAO.class
+END
+GenericRankingDAO.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/bootcamp/!svn/ver/823/1.team/build/classes/net/jforum/dao/generic/GenericRankingDAO.class
+END
