@@ -60,6 +60,7 @@ import freemarker.template.Template;
  * All View Helper classes, which are intead to configure and processs
  * presentation actions must extend this class. 
  * 
+ * 
  * @author Rafael Steil
  * @version $Id: Command.java,v 1.27 2007/07/28 14:17:11 rafaelsteil Exp $
  */
